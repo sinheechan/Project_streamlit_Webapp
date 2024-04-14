@@ -1,0 +1,13 @@
+# python 3.4 ~ 3.6(Tensorflow 2.4 dependency)
+
+streamlit #streamlit==0.74.1
+streamlit-drawable-canvas==0.5.1
+cryptocmd==0.6.0
+plotly # plotly==4.14.3
+tensorflow==2.4.0
+opencv-python==4.1.2.30 # opencv-python==4.3
+# opencv-contrib-python
+pandas_datareader # pandas_datareader==0.9.0
+
+# pip install --upgrade pip setuptools wheel
+# pip install opencv-python
