@@ -7,6 +7,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+# CNN 모델 정의
 class ConvNet(nn.Module):
     def __init__(self):
         super(ConvNet, self).__init__()
@@ -35,7 +36,7 @@ class ConvNet(nn.Module):
 model = ConvNet()
 PATH_TO_MODEL = "./convnet.pth"
 model.load_state_dict(torch.load(PATH_TO_MODEL, map_location="cpu"))
-model.eval()
+model.eval() # 평가 모드로 설정
 
 def run_model(input_tensor):
     model_input = input_tensor.unsqueeze(0)
