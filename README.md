@@ -17,11 +17,15 @@
 
 ## Version
 
-- python 3.12.2
-- numpy 1.26.4
-- pandas 2.2.1
-- opencv-python 4.9.0.80
-- ultralytics 8.1.19
+**[mnist]**
+- python 3.6
+- streamlit 1.10.0
+- streamlit-chat 0.1.1
+- streamlit-drawable-canvas 0.5.1
+
+**[server]**
+- Python 3.11.0
+- Flask 2.3.0
 
 ## Result
 
