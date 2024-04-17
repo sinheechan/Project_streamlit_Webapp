@@ -6,7 +6,7 @@
 
 <img src="image/mnist_result.png">
 <br /><br />
-<img src="image/coin_result.png">
+<img src="image/bcoin_result.png">
 <br /><br /> 
 ## Object
 
