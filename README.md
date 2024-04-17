@@ -1,20 +1,25 @@
 # Porject_streamlit_Webapp
 
+<br /><br /> 
 
+<img src="image/mnist_result.png">
+
+<br /><br /> 
 ## Object
 
 
-
+<br /><br /> 
 ## Dataset
 -
 
+<br /><br /> 
 ## Libraries used
 
-
+<br /><br /> 
 ## File explanation
 
 
-
+<br /><br /> 
 ## Version
 
 **[mnist.py]**
@@ -27,5 +32,6 @@
 - Python 3.11.0
 - Flask 2.3.0
 
+<br /><br /> 
 ## Result
 
