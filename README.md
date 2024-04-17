@@ -46,7 +46,3 @@ Streamlit은 파이썬 스크립트로 데이터를 시각화하고 웹 애플�
 **[server.py]**
 - Python 3.11.0
 - Flask 2.3.0
-
-<br /><br /> 
-## Result
-
