@@ -9,8 +9,9 @@ st.write('''
 마감 가격과 거래량을 차트로 보여줍니다!
 ''')
 
-start = datetime(2021,1,1)
-end = datetime(2022,12,31)
+on_bad_lines = "skip"
+start = datetime(2018,1,1)
+end = datetime(2019,12,31)
 
 # https://finance.yahoo.com/quote/005930.KS?p=005930.KS
 df = pdr.get_data_yahoo('005930.KS', start, end)
