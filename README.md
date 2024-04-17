@@ -1,6 +1,6 @@
 # Porject_streamlit_Webapp
 
-- Streamlit을 통한 다양한 웹 서비스 구축
+Streamlit을 활용한 웹 애플리케이션 서비스 구축
 
 <br /><br /> 
 
